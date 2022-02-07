@@ -1,0 +1,15 @@
+{
+    "houseInformation":[
+      {"id":1,"name":"Hiking", "price":2000,"address":"Bangalore","type":"land","tickets":"2"},
+      {"id":2,"name":"Cycling", "price":1200,"address":"Mysore","type":"land","tickets":"3"},
+      {"id":3,"name":"Rafting", "price":4000,"address":"Chennai","type":"land","tickets":"4"},
+      {"id":4,"name":"Boating", "price":1000,"address":"Jp nagar","type":"water","tickets":"5"},
+      {"id":5,"name":"Surfing", "price":5600,"address":"Blore","type":"water","tickets":"6"},
+      {"id":6,"name":"Paragliding", "price":3400,"address":"Mysore","type":"air","tickets":"2"},
+      {"id":7,"name":"Trekking", "price":2500,"address":"chennai","type":"land","tickets":"3"},
+      {"id":8,"name":"Skydiving", "price":6000,"address":"Electronic ","type":"air","tickets":"4"},
+      {"id":9,"name":"Bunjee Jumping", "price":2000,"address":"kormangala","type":"air","tickets":"3"},
+      {"id":10,"name":"Swimming", "price":2500,"address":"VV puram","type":"water","tickets":"2"}
+      
+    ]
+}
