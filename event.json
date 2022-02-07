@@ -1,7 +1,0 @@
-{
-    "EmployeeInfo":[
-      {"id":1,"name":"Rajini", "designation":"HR","salary":85000,"branch":"HSR"},
-      {"id":2,"name":"Kamal", "designation":"Accountant","salary":58000,"branch":"Bellandur"},
-      {"id":3,"name":"Sivaji", "designation":"Auditor","salary":120000,"branch":"Richmond Field"}     
-    ]
-}
